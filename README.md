@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tran%20Tan%20Phat&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Web%20Design%20%26%20Development&descAlignY=58&descSize=20" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tran%20Tan%20Phat&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=20&descColor=36BCF7" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B+I'm+Tan+Phat!;Full-Stack+Web+Developer;UI%2FUX+Enthusiast;Building+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B+I'm+Tan+Phat!;Software+Engineer;Full-Stack+Developer;Building+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 💻 **Web Designer & Full-Stack Developer** crafting beautiful, performant web & mobile apps
+- 💻 **Software Engineer** crafting beautiful, performant web & mobile apps
 - 🤖 Deeply into **AI-powered development** — building with Claude, Gemini & ChatGPT
 - 🏗️ Advocate for **monorepo architecture** with Nx for scalable team codebases
 - 🌐 From pixel-perfect UI to robust APIs — I own the full stack
@@ -31,25 +31,19 @@
 </p>
 
 <p align="center">
-  <!-- React Native -->
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <!-- Qwik -->
   <img src="https://img.shields.io/badge/Qwik-AC7EF4?style=for-the-badge&logo=qwik&logoColor=white" alt="Qwik" />
-  <!-- Nx Monorepo -->
   <img src="https://img.shields.io/badge/Nx%20Monorepo-143055?style=for-the-badge&logo=nx&logoColor=white" alt="Nx" />
-  <!-- NextJS -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <!-- Prisma -->
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
 <p align="center">
-  <!-- AI Stack -->
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Antigravity-FF6B6B?style=for-the-badge&logo=lightning&logoColor=white" alt="Antigravity" />
 </p>
 
 ---
@@ -76,6 +70,6 @@
 
 ### 💬 *"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
 </div>
