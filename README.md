@@ -25,7 +25,7 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,qwik,html,css,tailwind" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind" alt="Frontend" />
 </p>
 
 ### Mobile
@@ -54,35 +54,6 @@
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- Contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</div>
 
 ---
 
